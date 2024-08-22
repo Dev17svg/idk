@@ -1,0 +1,6 @@
+#simple gretting program
+
+gretting = "Sup man"
+person = "devin"
+
+print(gretting, person)
